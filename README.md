@@ -1,2 +1,3 @@
 # ahad.demo
 this is my second repository for learning git 
+author - ahad abbasi
